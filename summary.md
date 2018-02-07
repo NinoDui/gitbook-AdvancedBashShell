@@ -33,4 +33,4 @@
     * [陷阱](Chapter2-高级主题/陷阱.md)
     * [脚本编程风格](Chapter2-高级主题/脚本编程风格.md)
     * [杂项](Chapter2-高级主题/杂项.md)
-
+* [脚本素材库](Chapter3-PiecesBarn/README.md)
